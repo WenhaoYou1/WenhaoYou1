@@ -5,7 +5,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/wenhao-you/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&emsp;
   <a href="https://www.instagram.com/dr_ywh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&emsp;
-  
+  <a href="https://discord.com/users/ericcc1026"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&emsp;
+
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
