@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently studying at the University of Waterloo, as a Master student focusing on software engineering. <br>🌱 I’m currently supervised by Dr. Euijin Choo, doing research on Cyber Security and Computer Vision. <br>🤝 I’m looking for any full-time positions of software engineering and machine learning on the Fall 2025.
-<br>💬 Talk to me about Data, Machine learning techniques, and other development techs. <br>⚡ Fun fact I work better with backcountry camping.
+🔭 I’m currently studying at the University of Waterloo, as a Master student focusing on software engineering. <br>🤝 I’m looking for full-time positions of software development on the Fall 2025.
 
 ## 🌐 Socials:
 
