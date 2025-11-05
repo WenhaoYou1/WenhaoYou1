@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently studying at the University of Waterloo, as a Master student focusing on software engineering. <br>🤝 I’m looking for full-time positions of software development on the Fall 2025.
+🔭 I’m right now a Machine Learning Engineer who works on cutting-edge computer vision and language models. My daily duties are more like developing ML infra and improving model's performance. Feel free to reach out to me if you wanna have a coffee chat about software engineering or machine learning tech.
 
 ## 🌐 Socials:
 
