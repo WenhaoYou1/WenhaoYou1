@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 
 🔭 I’m right now a Machine Learning Engineer who works on cutting-edge computer vision and language models. My daily duties are more like developing ML infra and improving model's performance. Feel free to reach out to me if you wanna have a coffee chat about software engineering or machine learning tech.
 
@@ -7,8 +7,11 @@
 <a href="https://www.linkedin.com/in/wenhao-you/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&emsp;
 <a href="https://www.instagram.com/dr_ywh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&emsp;
 <a href="https://discord.com/users/ericcc1026"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&emsp;
+<p align="center">
+  <img src="https://cdn.nodeimage.com/i/sMP0lR9P6z9uUw65xWZcDaKPgGNyQXYZ.webp" alt="Welcome to my profile!" width="1000"/>
+</p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
